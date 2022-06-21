@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T14:01:36.517Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="ZRUP97fv8EEhLB1iBk4t" version="19.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-21T14:02:26.426Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="WTjFh31cHc9Oze1xOrBk" version="19.0.3" type="github" pages="2">
   <diagram name="Step-1" id="OLiRLe5505Yma7OksKm5">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -96,7 +96,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hC3AnCMwuv3fSxeQHiCX-3" value="Upload Image" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#666666;align=center;strokeColor=#4D4D4D;fontColor=#ffffff;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="311" y="450" width="105.5" height="16.88" as="geometry" />
+          <mxGeometry x="310" y="450" width="106.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hC3AnCMwuv3fSxeQHiCX-6" value="Input Box for Image Tag" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="284.5" y="180" width="200" height="30" as="geometry" />
