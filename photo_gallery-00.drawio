@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T14:06:22.569Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="vII2h4EIBzwiMxMNe7ta" version="19.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-21T14:08:45.672Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="xip9KmnJgaj_1jCxrz6m" version="19.0.3" type="github" pages="2">
   <diagram name="Step-1" id="OLiRLe5505Yma7OksKm5">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,7 +79,7 @@
         <mxCell id="to9vHnhRQwAdo1gKtXZy-1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hC3AnCMwuv3fSxeQHiCX-1" target="hC3AnCMwuv3fSxeQHiCX-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hC3AnCMwuv3fSxeQHiCX-1" value="InputTextBox: Enter Gallery Name" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="1">
+        <mxCell id="hC3AnCMwuv3fSxeQHiCX-1" value="Enter Gallery Name" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="99.5" y="80" width="570" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hC3AnCMwuv3fSxeQHiCX-25" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hC3AnCMwuv3fSxeQHiCX-2">
@@ -104,26 +104,20 @@
         <mxCell id="hC3AnCMwuv3fSxeQHiCX-18" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.614;entryY=0.154;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hC3AnCMwuv3fSxeQHiCX-7" target="hC3AnCMwuv3fSxeQHiCX-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hC3AnCMwuv3fSxeQHiCX-19" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.514;entryY=0.123;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hC3AnCMwuv3fSxeQHiCX-7" target="hC3AnCMwuv3fSxeQHiCX-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="hC3AnCMwuv3fSxeQHiCX-7" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.folder;rounded=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="613.75" y="380" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="hC3AnCMwuv3fSxeQHiCX-8" value="Src folder" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="643.75" y="430" width="70" height="20" as="geometry" />
+        <mxCell id="hC3AnCMwuv3fSxeQHiCX-8" value="Src folder&lt;br&gt;./Gallery" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="643.75" y="425" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hC3AnCMwuv3fSxeQHiCX-9" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.folder;rounded=0;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="613.75" y="505" width="70" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="hC3AnCMwuv3fSxeQHiCX-14" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.folder;rounded=0;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="703.75" y="505" width="70" height="65" as="geometry" />
+          <mxGeometry x="640" y="525" width="70" height="65" as="geometry" />
         </mxCell>
         <mxCell id="hC3AnCMwuv3fSxeQHiCX-20" value="Gallery Name" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="613.75" y="570" width="90" height="20" as="geometry" />
+          <mxGeometry x="633.75" y="600" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="hC3AnCMwuv3fSxeQHiCX-21" value="Gallery Name" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="703.75" y="570" width="90" height="20" as="geometry" />
+        <mxCell id="hC3AnCMwuv3fSxeQHiCX-21" value="Image" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="60.75" y="520" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hC3AnCMwuv3fSxeQHiCX-24" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-3/50/gallery-picture-photo-show-images-128.png;rounded=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="21.75" y="380" width="128" height="128" as="geometry" />
