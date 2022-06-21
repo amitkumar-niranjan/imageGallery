@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T10:45:20.310Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="RbH5_Cs1nLu_ei6cVszg" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T10:49:34.250Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="ILYsPy5OYl-jdwAaFq5b" version="19.0.3" type="github">
   <diagram name="Step-1" id="OLiRLe5505Yma7OksKm5">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -50,8 +50,8 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tBuiChLCB1PYQ4B-vove-13" value="scroll down" parent="tBuiChLCB1PYQ4B-vove-0" />
-        <mxCell id="tBuiChLCB1PYQ4B-vove-14" value="use Lazy Load Library to load more folders&lt;br&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;sketch=0;" vertex="1" parent="tBuiChLCB1PYQ4B-vove-13">
-          <mxGeometry x="200" y="370" width="240" height="20" as="geometry" />
+        <mxCell id="tBuiChLCB1PYQ4B-vove-14" value="use Lazy Load Library to load more folders with one image thubnail" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;sketch=0;" vertex="1" parent="tBuiChLCB1PYQ4B-vove-13">
+          <mxGeometry x="229" y="400" width="370" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
