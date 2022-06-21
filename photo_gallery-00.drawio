@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T14:02:26.426Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="WTjFh31cHc9Oze1xOrBk" version="19.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-21T14:06:22.569Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="vII2h4EIBzwiMxMNe7ta" version="19.0.3" type="github" pages="2">
   <diagram name="Step-1" id="OLiRLe5505Yma7OksKm5">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -87,7 +87,7 @@
             <mxPoint x="79.75" y="384" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hC3AnCMwuv3fSxeQHiCX-2" value="Browse Image" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="1">
+        <mxCell id="hC3AnCMwuv3fSxeQHiCX-2" value="Browse Images and select" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="284.5" y="300" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hC3AnCMwuv3fSxeQHiCX-5" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.021;entryY=0.58;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hC3AnCMwuv3fSxeQHiCX-3" target="hC3AnCMwuv3fSxeQHiCX-7">
